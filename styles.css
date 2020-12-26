@@ -2,12 +2,16 @@
     font-family: "Open Sans";
     background-color: #0f1011;
     color: white;
-    width: 69vw;
+    width: 69vw; /* nice */
     margin: auto;
 }
 a {
     color: #bb99ff;
     text-decoration: none;
     text-shadow: 0 0 15px;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(assets/OpenSans-Regular.ttf);
 }
 /* TODO: make it not bad */
