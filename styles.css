@@ -1,8 +1,13 @@
 :root {
     font-family: "Open Sans";
-    background-color: #31363b;
+    background-color: #0f1011;
     color: white;
     width: 69vw;
     margin: auto;
+}
+a {
+    color: #bb99ff;
+    text-decoration: none;
+    text-shadow: 0 0 15px;
 }
 /* TODO: make it not bad */
