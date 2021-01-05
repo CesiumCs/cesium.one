@@ -2,7 +2,7 @@
     font-family: "Open Sans";
     background-color: #0f1011;
     color: white;
-    width: 69vw; /* nice */
+    width: 69%;
     margin: auto;
 }
 a {
@@ -14,4 +14,22 @@ a {
     font-family: "Open Sans";
     src: url(assets/OpenSans-Regular.ttf);
 }
+* { /* unfucks some stuff */
+    box-sizing: border-box;
+  }
+.contact {
+    float: left;
+    min-width: 150px;
+    width: 10%;
+    padding: 15px;
+    margin: 5px;
+    background-color: #232629;
+    border-radius: 10px;
+    text-align: center;
+}
+@media screen and (max-width:500px) {
+    .contact {
+      width: 100%;
+    }
+  }
 /* TODO: make it not bad */
