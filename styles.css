@@ -49,11 +49,11 @@ div.contact:hover {
 }
 
 @media screen and (max-width:500px) {
-    .contact {
-      width: 100%;
-    }
-    :root {
-      width: 80%;
-    }
+  .contact {
+    width: 100%;
   }
+  :root {
+    width: 95%;
+  }
+}
 
