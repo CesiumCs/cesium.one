@@ -33,7 +33,7 @@ a {
   /* some hacky shit to make <div class=contact>s clickable. basically just makes
   an <a> in a <div class=contact> take up the full div. also changes the cursor but
   idk if thats even necessary nor do i care as of 0:57 on a tuesday when im writing this */
-  .contact a {
+.contact a {
   z-index: 10;
   width: 100%;
   height: 100%;
