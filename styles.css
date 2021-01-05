@@ -10,6 +10,11 @@ a {
     text-decoration: none;
     text-shadow: 0 0 5px;
 }
+.contact a {
+  color: white;
+  text-decoration: underline;
+  text-shadow: none;
+}
 @font-face {
     font-family: "Open Sans";
     src: url(assets/OpenSans-Regular.ttf);
