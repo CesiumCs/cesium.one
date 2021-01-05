@@ -29,7 +29,10 @@ a {
     opacity: .9;
     position: relative;
     transition: opacity .5s;
-  }
+}
+  /* some hacky shit to make <div class=contact>s clickable. basically just makes
+  an <a> in a <div class=contact> take up the full div. also changes the cursor but
+  idk if thats even necessary nor do i care as of 0:57 on a tuesday when im writing this */
   .contact a {
   z-index: 10;
   width: 100%;
@@ -44,6 +47,7 @@ div.contact:hover {
   cursor: hand;
   cursor: pointer;
 }
+
 @media screen and (max-width:500px) {
     .contact {
       width: 100%;
@@ -52,4 +56,4 @@ div.contact:hover {
       width: 80%;
     }
   }
-/* TODO: make it not bad */
+
