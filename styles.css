@@ -44,8 +44,6 @@ a {
 }
 div.contact:hover {
   opacity: 1;
-  cursor: hand;
-  cursor: pointer;
 }
 
 @media screen and (max-width:500px) {
