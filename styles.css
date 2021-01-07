@@ -1,5 +1,5 @@
 :root {
-    font-family: "Open Sans";
+    font-family: "Open Sans", sans-serif;
     background-color: #0f1011;
     color: white;
     width: 69%;
@@ -9,10 +9,6 @@ a {
     color: #bb99ff;
     text-decoration: none;
     text-shadow: 0 0 5px;
-}
-@font-face {
-    font-family: "Open Sans";
-    src: url(assets/OpenSans-Regular.ttf);
 }
 * { /* unfucks some stuff */
     box-sizing: border-box;
