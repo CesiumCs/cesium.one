@@ -2,8 +2,18 @@
     font-family: "Open Sans", sans-serif;
     background-color: black;
     color: white;
-    width: 69%;
     margin: auto;
+}
+body {
+  background-color: #202020;
+  padding: 30px;
+  padding-top: 1px;
+  border-radius: 10px;
+  margin: 100px;
+
+}
+h1 {
+  font-size: 2.5em;
 }
 p {
     font-size: 1.2em;
