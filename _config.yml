@@ -20,8 +20,7 @@
 
 title: cesium
 email: cesium2349@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-yeah
+description: yeah
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cesium.one" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cesium2349
