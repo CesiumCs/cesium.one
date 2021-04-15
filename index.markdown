@@ -5,36 +5,24 @@ layout: home
 
 i dont have anything better to write here so ill just say "nutte sac"
 
-## Contact
+## Main Contact
+
+stuff i use more often, id rather you try to talk to me on one of these
 
 Email: cesium2349@protonmail.com ([PGP Key](./pgp.txt))
 
-not an exhaustive list of my entire presence on the internet but stuff on this list is definitely me
-        
-### Discord
+Discord: Cesium#5061
 
-Cesium#5061
+GitHub: [CesiumCs](https://github.com/CesiumCs)
 
-### GitHub
+Telegram: [cesiumcs](https://t.me/cesiumcs)
 
-[CesiumCs](https://github.com/CesiumCs)
+## Other Links
 
-### YouTube
+Reddit: [unfunnycesium](https://www.reddit.com/user/unfunnycesium)
 
-[Cesium](https://www.youtube.com/channel/UCXPFpgA9G9_wtlyDeT7QAig)
+Keybase: [cesium2349](https://keybase.io/cesium2349/)
 
-### Reddit
+Twitter: [cesium2349](https://twitter.com/cesium2349)
 
-[unfunnycesium](https://www.reddit.com/user/unfunnycesium)
-
-### Keybase
-
-[cesium2349](https://keybase.io/cesium2349/)
-
-### Telegram
-
-[cesiumcs](https://t.me/cesiumcs)
-
-### Twitter
-
-[cesium2349](https://twitter.com/cesium2349)
+YouTube: [Cesium](https://www.youtube.com/channel/UCXPFpgA9G9_wtlyDeT7QAig)
