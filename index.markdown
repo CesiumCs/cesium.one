@@ -38,5 +38,3 @@ Cesium#5061
 ### Twitter
 
 [cesium2349](https://twitter.com/cesium2349)
-
-(obligatory pasting of xmr address) I have an XMR OpenAlias at the same address as this site.
