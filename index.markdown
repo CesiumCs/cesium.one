@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 # Cesium
@@ -35,9 +32,11 @@ Cesium#5061
 [cesium2349](https://keybase.io/cesium2349/)
 
 ### Telegram
+
 [cesiumcs](https://t.me/cesiumcs)
 
 ### Twitter
+
 [cesium2349](https://twitter.com/cesium2349)
 
 (obligatory pasting of xmr address) I have an XMR OpenAlias at the same address as this site.
