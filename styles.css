@@ -70,9 +70,46 @@ a {
 div.contact:hover {
   opacity: 1;
 }
+.apps {
+  width: 550px;
+  margin:auto;
+  display: grid;
+  grid-template-areas:
+    'one two three';
+  grid-gap: 10px;
+  padding: 10px;
+  grid-auto-columns: 1fr;
+  grid-auto-rows: 1fr;
 
+}
+.app {
+    float: left;
+    width: 170px;
+    padding: 15px;
+    background-color: #232629;
+    border-radius: 10px;
+    text-align: center;
+    opacity: .9;
+    position: relative;
+    transition: opacity .25s;
+}
+.app a {
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+}
+div.app:hover {
+  opacity: 1;
+}
 @media screen and (max-width:500px) {
   .contact {
+    width: 100%;
+  }
+  .app {
     width: 100%;
   }
   :root {
