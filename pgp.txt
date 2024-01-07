@@ -1,5 +1,6 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: Fingerprint:	E2EECE4F29D5F0F0B2C2C32A669C03EDAE4288DD
+Comment: Email:         cesium@cesium.one
 
 mQENBF+LvAwBCADQpeVpgc/ktkiCIn9ze/cWhH2qwdq0Iuv53rSB6ivnsN28dZ3c
 iyM5NdGXURAdwEo+/HHTfa16OWGlDmJk79K9/O219/Yv0/OgiIFLIyC+2Xcc5RJB
