@@ -108,6 +108,7 @@ div.app:hover {
 @media screen and (max-width:500px) {
   .contact {
     width: 100%;
+    grid-template-areas: 'one two';
   }
   .app {
     width: 100%;
