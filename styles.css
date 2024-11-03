@@ -106,7 +106,7 @@ div.app:hover {
   opacity: 1;
 }
 @media screen and (max-width:500px) {
-  .contact {
+  .contacts {
     width: 100%;
     grid-template-areas: 'one two';
   }
