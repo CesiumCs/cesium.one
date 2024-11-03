@@ -110,8 +110,9 @@ div.app:hover {
     width: 100%;
     grid-template-areas: 'one two';
   }
-  .app {
+  .apps {
     width: 100%;
+    grid-template-areas: 'one two';
   }
   :root {
     width: 95%;
